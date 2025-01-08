@@ -113,3 +113,6 @@ all - 全部時間
 
 ## 🤝 貢獻指南
 歡迎提交 Issue 和 Pull Request 來協助改善專案！
+
+##  專案狀態
+![Alt](https://repobeats.axiom.co/api/embed/e95b046e51a0cc699c62422b4da76c4ba6f05814.svg "Repobeats analytics image")
